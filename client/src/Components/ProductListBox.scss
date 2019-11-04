@@ -1,0 +1,48 @@
+.productList{
+    width: 80%;
+    flex-wrap: wrap, 
+
+    h1{
+        font-size: 5rem;
+        color: #393B47;
+    }
+}
+.productBox{
+    margin: 15px 0;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.boxContent{
+    display: flex;
+    width: 80%;
+
+
+    h1{
+        font-weight: bold;
+        color: #393B47;
+        font-size: 1.5rem;
+    }
+    .productPicture{
+        width:  150px;
+        height: 150px;
+        border-radius: 20px;
+        
+    }
+    p{
+        font-size: 0.6rem;
+        color: #393B47;
+    }
+}
+
+.links{
+    text-decoration: none;
+}
+
+.createProduct{
+    text-align: center;
+}

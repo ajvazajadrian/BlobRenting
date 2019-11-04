@@ -1,0 +1,61 @@
+#rentTitle{
+    font-weight: normal;
+    font-size: 4rem;
+    color: #262833;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.type-wrap{
+    margin: 0px;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #262833;
+}
+
+.searchBar{
+    text-align: center;
+}
+
+.searchValue{
+    height: 80px;
+    width: 100%;
+    border-radius: 5px;
+    border: 0px;
+    margin-bottom: -5px;
+    outline: 0px;
+    padding-left: 20px;
+    box-sizing: border-box
+     
+}
+.searchLocation{
+    margin-bottom: -10px;
+    height: 80px;
+    margin-left: 3px;
+    width: 30%;
+    border-radius: 5px;
+    border: 0px;
+    outline: 0px;
+    padding-left: 20px;
+    box-sizing: border-box
+}
+
+.submitButton{
+    font-size: 1rem;
+    font-weight: bold;
+    height: 50px;
+    width: 50%;
+    color: white;
+    background-color: #fd6492;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.submitButton{
+    cursor: pointer;
+    outline: 0px;
+}
+
+.boxTitle{
+    width: 80%;
+}

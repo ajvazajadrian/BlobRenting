@@ -1,0 +1,71 @@
+.outBox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #393B47;
+}
+.box{
+    width: 80%;
+}
+   .boxBox{
+       display: flex;
+       justify-content: center;
+   }
+    .productPicture{
+        width: 100vw;
+       margin-top: 25px;
+    }
+    h1{
+        font-size: 3rem;
+        line-height: 50px;
+        font-weight: 300;
+        color: #393B47;
+    }
+    p{
+        font-size: 1rem;
+        font-weight: thin;
+        line-height: 1.5rem;
+        color: #393B47
+    }
+  
+.buttonBox{
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.productPictureDetail{
+    width: 100vw;
+    padding-top: 200px;
+}
+
+.listTitle{
+    font-size: 1.5rem;
+    line-height: 20px;
+    font-weight: 300;
+    color: #393B47;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.listCat{
+    line-height: 20px;
+    font-weight: 300;
+    color: #393B47;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+
+.priceList{
+    font-size: 1.5rem;
+    line-height: 20px;
+    font-weight: 300;
+    color: #393B47;
+    padding-top: 120px;
+}
+
+
+
+  
